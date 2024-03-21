@@ -1,0 +1,103 @@
+
+https://www.youtube.com/watch?v=Zht0-j03NfQ&t=19028s&ab_channel=DavidMcLachlan
+101-110 Review
+111-120  i
+121-130 121: NPS Net Promoter Score. Customer surveys to see if they would recommend to a friend
+125: You need information on the high level features first before you can break them down into epics and user stories
+126: People need the vision statement to see the value or “why” behind the work to keep engaged
+127: Assumptions have a positive connotation. Don’t think military. Trust your team. See assumption log to record all assumptions and constraints.
+128. I simply didn’t know. I just knew we have a fixed budget but scopes can change. I was right but it was a guess. 
+Okay, so business case is saved for waterfall projects. NOT AGILE. Agile uses backlog. So features can be added quite easily if the industry is the same or projects are similar if budget can accommodate. It’s part of Agile’s flexibility. 
+ 
+Notes: 
+140: the burndown chart shows what the team is tracking towards their sprint goal. Kanban board is just to show who’s doing what particular job, velocity chart is a measure previous sprints (what they said they can do vs what they did).
+
+141-150
+	143: Story mapping breaks down a product into user stories.
+ 
+	Notes: 
+141: cumulative flow diagram shows each features in a line diagram and how much what has been completed over time. It reflects the entire product. Backlog, design, development, testing, and more
+142: cycle time is time to complete one time from beginning to end of development
+	lead time is when the customer first requested the order. So it’s a larger time
+145: don’t use a firm fixed price for an uncertain project scope. a cost plus incentive fee allows for change and incentivizes the third party vendor to accept changes to scope. Also, you’re also promising to cover for their work so it wont be at their loss. 
+146: IDIQ – indefinite delivery, indefinite quantity. Good if you expect material volume changes. Stated with lower and upper limit and for a set time. 
+147: SOW statement of work. Bid documents are used to requet for proposal (RFP). Req for info (RFI) if more info is needed. RFQ req for quote to get vendor’s price. A bidders conference is used to make sure all vendors are in the same page at a single event. RFP is used if items are complex. If straightforward, then show me the money with RFQ. Straight to the point.
+148: Team charter is used to help members know their role in the team.
+
+
+
+https://www.youtube.com/watch?v=Zht0-j03NfQ&ab_channel=DavidMcLachlan
+
+1-10
+2 – be more detailed in what the business case needed. In fact, the product just needed a secure staff.
+
+Notes:
+3 - Communicate!!
+4 – Integrity and stewardship
+8 – iterative means to emphasize. In agile, the emphasis is on value. Feedback on product development from sprints are imperative.
+9 – quality first. do not over rely on just inspection to catch all mistakes, because by then, the culture of accepted failure because it’ll be caught later will bleed to actual real world mistakes in which inspections failed to catch. 
+10 – human behavior, sys interactions, technical innovations, uncertainty and ambiguity introduce complexity
+11-20		(-13/60 so far from q 100)
+Notes: 
+20 - a team charter helps set vision, objectives, roles/responsibilities, and team operations. Helps if there’s team issues. This is a more well-rounded leadership approach then just sending people to go train
+Nice job dude. 
+21-30		(-13/70 still)
+25: Wait until the process is done changing, then deliver it in one go instead of incremental because you risk being impacted as the process is still going. 
+	Notes:
+	22 – an influential leader is someone who can inspire to get work done, not threaten. 
+26- Iterative approach is used to capture changing ideas but still deliver in one go. Incremental delivers progressively in increments. Can scare customers away if goal is uncertain and you delivered the wrong thing without any room for acceptable errors. 
+31-40		(-14/80) 82.5%
+32- in a high risk, high value component, prioritize high risk items at the start. Risk builds up over project life. Get rid of it first. 
+38- lead time is when a customer first puts in a request for a feature up until it’s delivered. There can be multiple cycles (story cards) within that one lead. A throughput is the amount of jobs or activities done in a certain time frame. 
+39- scrum uses velocity. Flow-based estimares are done by cycle time x throughput
+Notes:
+35- low accuracy is a large ranged estimate. Low precision is a terrible exactness of estimate (sometime this week). 
+40- lead is getting head (adding more time to get something done). Lagging is the item is falling behind schedule and will start or end at a later time. 
+41-50		(-17/90) 81.1%
+47- trust your gut. outside skills introduced to your project will help your team, using a predictive approach to maintain any risk. 
+48- why should info be shared is another way of saying the vision. no one else should be able to change your communication plan. 
+
+Notes:
+41- Crashing is when you throw more money to speed up work. Think paying overtime. Fast tracking compresses schedules and makes jobs normally done in sequence to start being worked in parallel. 
+	49- large resource purchases require strategic thinking!
+51-60		(-19/100) 81%
+53- Please underline if project is waterfall or agile. In agile, there really isn’t a proper CCB. Instead, there’s a backlog where the team decides if it’s worth prioritizing; however, any new features need to be address to and decided to be added by the Product Owner. Also, worth being a diversion shield. Trust your initial gut feeling. 
+56- RFI Request for Info is sent to vendors to gather information to get a better understanding of the market. THIS IS SENT BEFORE BID DOCUMENTS (RFP & RFQ)
+	Notes:
+51- Project process optimization can be done with Lean. Cut out the fat, it’ll help bring costs down and keep focus on scheduled work
+55- RFP (Request for proposal! Used for complex scope) RFQ is request for quote. Used when price is the deciding factor. These both are part of the bid documents.
+57- Firm fixed price “here’s the scope, here’s the price”. Dry. Nothing crazy. A master agreement and adaptive work placed in an appendix gives a head up that things may change but that is still within scope. Does not impact overall contract.
+60- Clear, verifiable, consistent, concise, complete and traceable requirements!
+61-70		(-21/100) 81.1%
+
+200 Agile questions
+1-10
+1- I got confused on who is meant to do what. Just like the project manager, the owner should be focused on individuals and interactions if they wish to be involved. imagine standups. 
+3- the product owner shares the updated backlog so the team can discuss and ensure a shared understanding in the sprint planning meetings. Asking yourself what did you do yesterday, what will you do today, and what’s blocking you is daily standup material.
+5- You hold a retrospective after the sprint review and the sprint. 
+9- Frameworks are types of project work. Like agile, scaled agile, large scale scrum. Flow charting and affinity diagrams are just tools. 
+
+Notes: 
+6- team charter answers why we’re doing a project, who benefits (and how), what does 
+“done” mean, and how the team is going to work together. 
+7- Earned value management and schedule performance index are waterfall tools. Don’t be fooled by “value”, the actual value AGILE measures is how well work is getting done and how much the customer likes the product
+8- you don’t manage stakeholders expectations. You manage their engagement. 
+(-4/10)	60%
+
+11-20
+11- The product owner prioritizes the backlog. The team estimate and refine work items. 
+Notes: 
+12- WIP (work in progress). Scrum works in sprints or iterations. 
+	(-5/20)  75%
+21-30
+23- project plan is waterfall. That whole mapping is PMBOK guide 6 and focuses on predictive. Not agile. Stick to your gut!
+Notes:
+21- sprint reviews are for product demonstrations. you want to do retrospectives for every sprint, not just end of project. 
+(-6/30) 80%
+
+
+101-110 out of 150 video
+101- best to assess facts and analyze for known unknowns to apply good practices. Probing the environment won’t help more if it’s already known that risks are unknown. Probing is only good for unknown unknowns
+107- You must monitor and control work as it is being executed. It is not step by step after execution, monitoring and controlling is done WHILE execution, especially as the project manager.
+
+
